@@ -59,7 +59,8 @@ plainwhite:
 # this and add the path to the pages in order as they should show up
 
 # Build settings
-theme: plainwhite
+#theme: plainwhite
+remote_theme: samarsault/plainwhite-jekyll
 
 plugins:
   - jekyll-seo-tag
