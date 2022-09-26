@@ -1,0 +1,15 @@
+[
+  
+    {
+      "title"    : "Title title",
+      "title-lower"    : "title title",
+      "sub-titile" : "",
+      "sub-titile-lower" : "",
+      "categories" : "Cat1Cat2,",
+      "tags"     : "",
+      "url"      : "/cat1/cat2,/2019/03/23/welcome-to-jekyll.html",
+      "date"     : "2019-03-23 16:33:36 +0100",
+      "content"     : "Content Placeholder"
+    } 
+  
+]
