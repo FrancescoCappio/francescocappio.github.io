@@ -12,6 +12,11 @@ should benefit all: **knowledge should be open, personal data should stay privat
 
 # News
 
+<div class="post-date"><i class="icon-calendar"></i>May 16, 2023</div>
+
+I am proud to have been named one of [CVPR 2023 outstanding
+reviewers](https://cvpr2023.thecvf.com/Conferences/2023/OutstandingReviewers)
+
 <div class="post-date"><i class="icon-calendar"></i>Sept 16, 2022</div>
 
 Our paper ***Towards Open Set 3D Learning: Benchmarking and Understanding Semantic Novelty Detection
