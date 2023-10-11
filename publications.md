@@ -21,7 +21,7 @@ In: International Conference on Image Analysis and Processing, ICIAP 2023
 <ul class="post-categories">
       <li><a href="https://arxiv.org/abs/2307.06179">Arxiv</a></li>
       <li><a href="https://github.com/lulor/ood-class-separation">Code</a></li>
-      <li><a href="https://link.springer.com/chapter/10.1007/978-3-031-43153-1_25"></a>Springer</li>
+      <li><a href="https://link.springer.com/chapter/10.1007/978-3-031-43153-1_25">Springer</a></li>
 </ul><br>
 
 ------
