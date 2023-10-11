@@ -12,6 +12,16 @@ should benefit all: **knowledge should be open, personal data should stay privat
 
 # News
 
+<div class="post-date"><i class="icon-calendar"></i>Sept 18, 2023</div>
+
+I'm happy to have joined Amazon Luxembourg as a Research Scientist Intern working on anomaly
+detection!
+
+<div class="post-date"><i class="icon-calendar"></i>June 29, 2023</div>
+
+Our paper ***Large Class Separation is not what you need for Relational Reasoning-based OOD
+Detection*** has been accepted for publication at [ICIAP 2023](https://www.iciap2023.org/)
+
 <div class="post-date"><i class="icon-calendar"></i>May 16, 2023</div>
 
 I am proud to have been named one of [CVPR 2023 outstanding

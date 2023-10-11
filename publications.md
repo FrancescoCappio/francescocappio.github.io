@@ -3,13 +3,28 @@ layout: page
 ---
 # Publications 
 
-My research has touched a number of different fields of Deep Learning for Computer Vision: Domain
-Generalization, Domain Adaptation and Open Set Recognition for visual object recognition and
-detection. I also worked on Open Set Recognition on 3D point clouds. 
+My research focuses on distributional shift challenges that arise when moving deep learning based
+Computer Vision algorithms from training to test conditions. I study visual domain and
+semantic shifts, which means that my papers touch problems like Domain Adaptation, Domain
+Generalization, Open Set Recognition and Out-of-distribution detection. 
 
 In the following list asterisks\* near authors names mean *equal contribution*.
 
 ## Conferences 
+
+### 2023
+
+------
+*Large Class Separation is not what you need for Relational Reasoning-based OOD Detection*<br>
+Lorenzo Li Lu, Giulia D'Ascenzi, **Francesco Cappio Borlino**, and Tatiana Tommasi<br>
+In: International Conference on Image Analysis and Processing, ICIAP 2023
+<ul class="post-categories">
+      <li><a href="https://arxiv.org/abs/2307.06179">Arxiv</a></li>
+      <li><a href="https://github.com/lulor/ood-class-separation">Code</a></li>
+      <li><a href="https://link.springer.com/chapter/10.1007/978-3-031-43153-1_25"></a>Springer</li>
+</ul><br>
+
+------
 
 ### 2022
 
@@ -105,4 +120,11 @@ In: Computer Vision and Image Understanding Journal (CVIU), 2022
 
 ## Preprints
 
-I have no unpublished preprints at the moment. 
+*OpenPatch: a 3D patchwork for Out-Of-Distribution detectionpdf icon*<br>
+Paolo Rabino, Antonio Alliegro, **Francesco Cappio Borlino**, and Tatiana Tommasi<br>
+<ul class="post-categories">
+      <li><a href="https://arxiv.org/abs/2310.03388">Arxiv</a></li>
+</ul><br>
+
+------
+
