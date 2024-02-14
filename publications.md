@@ -21,7 +21,7 @@ In: International Conference on Image Analysis and Processing, ICIAP 2023
 <ul class="post-categories">
       <li><a href="https://arxiv.org/abs/2307.06179">Arxiv</a></li>
       <li><a href="https://github.com/lulor/ood-class-separation">Code</a></li>
-      <li><a href="https://link.springer.com/chapter/10.1007/978-3-031-43153-1_25">Springer</a></li>
+      <li><a href="https://link.springer.com/chapter/10.1007/978-3-031-43153-1_25">Proceedings</a></li>
 </ul><br>
 
 ------
@@ -35,6 +35,7 @@ In: European Conference on Computer Vision, ECCV 2022
 <ul class="post-categories">
       <li><a href="https://arxiv.org/abs/2207.08699">Arxiv</a></li>
       <li><a href="https://github.com/FrancescoCappio/ReSeND">Code</a></li>
+      <li><a href="https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5215_ECCV_2022_paper.php">Open Access</a></li>
 </ul><br>
 
 ------
@@ -54,6 +55,7 @@ In: The 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems
 <ul class="post-categories">
       <li><a href="https://arxiv.org/abs/2203.09257">Arxiv</a></li>
       <li><a href="https://github.com/FrancescoCappio/Contrastive_Open_World">Code</a></li>
+      <li><a href="https://ieeexplore.ieee.org/document/9981592">Proceedings</a></li>
 </ul><br>
 
 ------
@@ -113,7 +115,7 @@ In: Computer Vision and Image Understanding Journal (CVIU), 2022
 <ul class="post-categories">
       <li><a href="https://arxiv.org/abs/2106.03496">Arxiv</a></li>
       <li><a href="https://github.com/FrancescoCappio/OSHOT-meta-learning">Code</a></li>
-      <li><a href="https://doi.org/10.1016/j.cviu.2022.103549">DOI</a></li>
+      <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S1077314222001278">Elsevier</a></li>
 </ul><br>
 
 ------
