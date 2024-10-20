@@ -3,8 +3,11 @@ layout: page
 ---
 # Bio 
 
-I'm a PhD Student researching **Deep Learning** at [Politecnico di Torino](www.polito.it) in the
-[Vandal lab](http://vandal.polito.it/). I'm passionate about new
+I'm a Research Scientist at [Amazon](https://www.amazon.science/author/francesco-cappio-borlino),
+working on Anomaly Detection for Computer Vision applications. I have a PhD in Computer Vision from
+[Politecnico di
+Torino](https://www.polito.it/didattica/dottorato-di-ricerca-e-scuola-di-specializzazione/alumni?p=052409)
+where I have been part of the [Vandal lab](http://vandal.polito.it/). I'm passionate about new
 technologies as I'm convinced they can improve our life. Still, I firmly believe these improvements
 should benefit all: **knowledge should be open, personal data should stay private**. 
 
@@ -12,7 +15,7 @@ Download my complete [résumé](/assets/resume.pdf).
 
 ## Skills 
 
-I speak **Italian**, **English** and **French**.
+I speak **Italian**, **English** and a bit of **French**.
 
 I am a *skilled developer* and a *fast learner*. I have used **Linux** for my whole life and thus have
 some sysadmin experience. 
@@ -22,7 +25,8 @@ and Bash**, but I have also used SQL, Javascript, and  PHP.
 
 I have developed native applications for Linux with C/C++, GUIs with Qt, and mobile applications
 with Android Studio. I used scikit-learn for traditional Machine Learning problems and Hadoop and
-Spark for Big Data analysis.
+Spark for Big Data analysis. I have gained experience about many AWS services, from Lambdas, to
+Dynamo, and most importantly many tools of the SageMaker family.
 
 I develop **Deep Learning** projects with **PyTorch, Jax+Flax** and any other tool that can come in handy. 
 

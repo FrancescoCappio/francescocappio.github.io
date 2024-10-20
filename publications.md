@@ -108,6 +108,22 @@ In: European Conference on Computer Vision Workshops, ECCV Workshops 2020
 
 ## Journals 
 
+### 2024 
+
+------
+*Foundation Models and Fine-Tuning: A Benchmark for Out of Distribution Detection*<br>
+**Francesco Cappio Borlino**, Lorenzo Li Lu, and Tatiana Tommasi<br>
+In: IEEE Access, 2024
+<ul class="post-categories">
+      <li><a href="https://ieeexplore.ieee.org/abstract/document/10547247">IEEE Access</a></li>
+      <li><a href="https://ooddb.github.io">Benchmark</a></li>
+      <li><a href="https://github.com/FrancescoCappio/OODDetectionBench">Code</a></li>
+</ul><br>
+
+------
+
+### 2022 
+
 ------
 *Self-Supervision & Meta-Learning for One-Shot Unsupervised Cross-Domain Detection*<br>
 **Francesco Cappio Borlino**, Salvatore Polizzotto, Barbara Caputo, and Tatiana Tommasi<br>
